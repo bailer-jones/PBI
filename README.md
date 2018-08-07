@@ -1,0 +1,2 @@
+# PBI
+Practical Bayesian Inference
