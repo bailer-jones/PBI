@@ -1,0 +1,27 @@
+CBJ 2017-03-24
+
+These R scripts accompany the book
+"Practical Bayesian Inference: A Primer for Physical Scientists"
+by C.A.L. Bailer-Jones, 2017, published by Cambridge University Press.
+The scripts are provided without warranty and are made available under a
+Creative Commons Attribution 4.0 International License (CC-BY-4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The scripts are explained in the book and were developed using R Version 3.1.1.
+The additional R libraries required to run them are (with the version number used in parentheses):
+  fields (8.4-0)
+  gplots (3.0.1) 
+  KernSmooth (2.23-15)
+  MASS (7.3-45)
+  mvtnorm (1.0-5)
+  RColorBrewer (1.1-2)
+  splines (3.3-1)
+as well as any dependencies these packages may have.
+
+The following scripts found here are mentioned and used in the book, but are not listed in the book:
+  linearmodel_outlier_posterior.R
+  linearmodel_xyerr_functions.R
+  linearmodel_xyerr_posterior.R
+  parallax.R
+  quadraticmodel_functions.R
+  quadraticmodel_posterior.R
